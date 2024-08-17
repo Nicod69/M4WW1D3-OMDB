@@ -1,0 +1,28 @@
+body {
+    background: radial-gradient(ellipse at center, #390b3a 0%,#231313 100%);
+    height: 100dvh;
+}
+
+.btn {
+    background-color: #861b89;
+    border: none;
+}
+
+.btn:hover {
+    background-color: #c328c7
+}
+
+
+.movie-result {
+    background-color: white;
+    color: black;
+    min-height: 300px;
+    border-radius: 8px;
+    padding: 1rem;
+}
+
+.plot-result {
+    min-height: 100px;
+    border-radius: 0px;
+    padding: 1rem;
+}
